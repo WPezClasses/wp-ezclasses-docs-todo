@@ -57,6 +57,8 @@ http://wordpress.stackexchange.com/questions/28359/how-to-require-a-minimum-imag
 
 Add modernizer (via CND) to presets enqueue scritps
 
+See also: http://www.sitepoint.com/5-reasons-why-you-should-be-using-a-cdn-with-wordpress
+
 // ------------------------------------------------------------------------------------------------
 
 
