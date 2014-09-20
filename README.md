@@ -7,6 +7,8 @@ These are ideas, links, snippets and such related to (possible) future efforts f
 
 ====================================================================================================================================
 
+http://www.1stwebdesigner.com/wordpress/wordpress-hacks/
+
 http://www.onextrapixel.com/2012/10/08/10-tips-for-a-deeply-customised-wordpress-admin-area/
 	
 http://www.catswhocode.com/blog/wordpress-hacks-and-snippets-to-efficiently-reduce-spam
