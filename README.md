@@ -35,6 +35,8 @@ http://www.catswhocode.com/blog/wordpress-dashboard-hacks-for-developers-and-fre
 
 http://www.catswhocode.com/blog/super-useful-wordpress-action-hooks-and-filters
 
+https://wordpress.org/plugins/wp-head-cleanup/
+
 http://digwp.com/2010/03/wordpress-functions-php-template-custom-functions/
 
 http://niroze.wordpress.com/2011/09/04/common-set-of-custom-wordpress-functions/
