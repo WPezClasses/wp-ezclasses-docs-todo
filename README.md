@@ -7,6 +7,14 @@ These are ideas, links, snippets and such related to (possible) future efforts f
 
 ====================================================================================================================================
 
+#### Pagination
+- http://premium.wpmudev.org/blog/upscale-your-wordpress-post-pagination-your-readers-will-thank-you/
+- http://speckyboy.com/2012/06/07/focusing-on-usability-with-an-enhanced-pagination-design-in-wordpress-entries/
+- http://wordpressapi.com/2010/12/08/wordpress-pagination-style-wordpress-plugin/
+
+
+======
+
 http://www.1stwebdesigner.com/wordpress/wordpress-hacks/
 
 http://www.onextrapixel.com/2012/10/08/10-tips-for-a-deeply-customised-wordpress-admin-area/
@@ -37,10 +45,7 @@ http://digwp.com/2010/02/template-heirarchy-chart/
 
 http://digwp.com/2009/09/tumblr-style-links-for-posts-and-feeds/
 
-http://digwp.com/2009/09/tumblr-style-links-for-posts-and-feeds/
 http://digwp.com/2011/04/tumblr-links-post-formats/
-
-// -http://wordpressapi.com/2010/12/08/wordpress-pagination-style-wordpress-plugin/
 
 
 // ------------------------------------------------------------------------------------------------
