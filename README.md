@@ -15,6 +15,20 @@ These are ideas, links, snippets and such related to (possible) future efforts f
 
 ======
 
+##### Hide Login Error Messages
+
+Error login messages may expose and give hackers an idea if they’ve gotten username correct/incorrect, vice versa. It is wise to hide it from unauthorized login.
+
+To hide login error messages, simply put the following code in functions.php
+
+add_filter('login_errors',create_function('$a', "return null;"));
+
+- Source: http://www.hongkiat.com/blog/hardening-wordpress-security/
+
+
+
+======
+
 http://www.1stwebdesigner.com/wordpress/wordpress-hacks/
 
 http://www.onextrapixel.com/2012/10/08/10-tips-for-a-deeply-customised-wordpress-admin-area/
