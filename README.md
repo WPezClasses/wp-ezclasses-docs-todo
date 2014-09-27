@@ -29,6 +29,8 @@ add_filter('login_errors',create_function('$a', "return null;"));
 
 ======
 
+http://wpsnipp.com/index.php/functions-php/remove-width-height-attributes-images-posts/
+
 http://codex.wordpress.org/Option_Reference
 
 http://www.1stwebdesigner.com/wordpress/wordpress-hacks/
