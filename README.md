@@ -29,6 +29,8 @@ add_filter('login_errors',create_function('$a', "return null;"));
 
 ======
 
+http://codex.wordpress.org/Option_Reference
+
 http://www.1stwebdesigner.com/wordpress/wordpress-hacks/
 
 http://www.onextrapixel.com/2012/10/08/10-tips-for-a-deeply-customised-wordpress-admin-area/
