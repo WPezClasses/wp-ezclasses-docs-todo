@@ -33,6 +33,8 @@ http://wpsnipp.com/index.php/functions-php/remove-width-height-attributes-images
 
 http://codex.wordpress.org/Option_Reference
 
+http://wpsnipp.com/index.php/functions-php/require-featured-image-can-publish-post/
+
 http://www.1stwebdesigner.com/wordpress/wordpress-hacks/
 
 http://www.onextrapixel.com/2012/10/08/10-tips-for-a-deeply-customised-wordpress-admin-area/
