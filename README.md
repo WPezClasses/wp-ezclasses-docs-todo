@@ -29,6 +29,8 @@ add_filter('login_errors',create_function('$a', "return null;"));
 
 ======
 
+http://www.codeinwp.com/blog/how-to-simplify-the-wp-admin/
+
 http://wpsnipp.com/index.php/functions-php/add-search-form-to-specific-wp_nav_menu/
 
 http://wpsnipp.com/index.php/functions-php/remove-width-height-attributes-images-posts/
